@@ -13,7 +13,7 @@ export default function Hero() {
             <div className="flex flex-col items-center justify-center md:items-start mt-20">
                 <h1 className="font-sans text-5xl xl:text-7xl font-semibold text-black border-b-4 border-[#DB6440]"> Our Solution:  </h1>
                 <h2 className="text-xl  md:text-4xl mt-10 ">
-                    Convidat's solution to transforming the co-working space landscape is multi-faceted, focusing on accessibility, flexibility, and community.
+                    Convidat&apos;s solution to transforming the co-working space landscape is multi-faceted, focusing on accessibility, flexibility, and community.
                 </h2>
                 <ul className="mt-5 list-disc text-2xl ml-6 flex flex-col gap-5">
                     <li> <b>Diverse Workspace Options:</b> Offering access to a wide range of co-working environments, including cafes, residential spaces, WeWork locations, and more, to meet various preferences and needs. </li>
@@ -37,11 +37,11 @@ export default function Hero() {
                 </h2>
             </div>
             <div className="flex flex-col items-center justify-center md:items-start mt-20">
-                <h1 className="font-sans text-5xl xl:text-7xl font-semibold text-black border-b-4 border-[#DB6440] "> Convidat's Progress Highlights: </h1>
+                <h1 className="font-sans text-5xl xl:text-7xl font-semibold text-black border-b-4 border-[#DB6440] "> Convidat&apos;s Progress Highlights: </h1>
                 <ul className="mt-5 list-disc text-2xl ml-6 flex flex-col gap-5">
-                    <li> <b>MVP Development: </b> We've developed a Minimum Viable Product (MVP) focused on essential features like booking, venue onboarding, and community engagement, laying the groundwork for our platform.</li>
+                    <li> <b>MVP Development: </b> We&apos;ve developed a Minimum Viable Product (MVP) focused on essential features like booking, venue onboarding, and community engagement, laying the groundwork for our platform.</li>
                     <li> <b>Testing Phase:</b>  Our MVP is currently undergoing thorough testing to refine user experience and functionality, incorporating feedback from early users to ensure readiness for launch.</li>
-                    <li> <b>Venue Onboarding and Utilization:</b> We're actively conducting research over diverse co-working spaces, including cafes and homes, guided by market research to select potential venues that align with our mission.</li>
+                    <li> <b>Venue Onboarding and Utilization:</b> We&apos;re actively conducting research over diverse co-working spaces, including cafes and homes, guided by market research to select potential venues that align with our mission.</li>
                     <li> <b>Market Research: </b> Ongoing market research helps us identify expansion opportunities and tailor our services to the evolving needs of freelancers, startups, and remote workers.</li>
                     <li> <b>Event Hosting and Booking:</b> Venues can organize and list events, workshops, or meetups, with users able to sign up or book spaces for their own events, fostering a sense of community and collaboration.</li>
                     <li> <b>Customizable Venue Profiles:</b> Venue owners can now fully customize their profiles, highlighting unique amenities, photos, and special features like exclusive events or facilities like on-the-pay Wifi and food or meal booking</li>
